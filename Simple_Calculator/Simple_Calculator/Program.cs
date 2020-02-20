@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Aurimas Šernas
+
+using System;
 using System.Windows.Forms;
 
 namespace Simple_Calculator

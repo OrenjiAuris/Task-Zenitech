@@ -1,4 +1,6 @@
-﻿namespace Simple_Calculator
+﻿//Aurimas Šernas
+
+namespace Simple_Calculator
 {
     partial class Calculator
     {

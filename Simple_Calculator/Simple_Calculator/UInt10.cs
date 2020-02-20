@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Aurimas Šernas
+
+using System;
 using System.Collections;
 
 namespace Simple_Calculator

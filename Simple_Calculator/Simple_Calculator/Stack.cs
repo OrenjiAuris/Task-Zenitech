@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Aurimas Šernas
+
+using System;
 
 namespace Simple_Calculator
 {
